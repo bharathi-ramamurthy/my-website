@@ -1,3 +1,0 @@
-# Demo file
-
-demo.css
