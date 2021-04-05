@@ -13,4 +13,5 @@
 
 # example rebase
 
+# Line added to create conflict
 # Line added to create conflict - locally
